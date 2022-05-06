@@ -1,0 +1,45 @@
+:root{
+    --cabeçalho_rodape: #8f9491;
+    --display: #fc6625; 
+}
+
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+#menu-nav{
+    background-color: var(--cabeçalho_rodape)
+}
+
+#menu-nav ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-nav ul li {
+    display: inline;
+}
+
+#menu-nav ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: all 2s;
+}
+
+#menu-nav ul li a:hover {
+    background-color: var(--display);
+}
+
+#menu-nav ul li:last-child a {
+    float: right;
+    background-color: var(--display);
+}
+
