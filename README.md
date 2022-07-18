@@ -1,4 +1,4 @@
-#  HTML.CSS. JS Sistema-contratar-pacotes
+#  HTML.CSS. JS Sistema-contratar-pacotes.js
 Estou desenvolvendo o meu primeiro sistema, decidi desafiar os meus conhecimentos aplicando em uma criação de um siste de contratação de pacotes.
 Com as informações de um cliente fake, atenderei todas as necessidades. 
 
